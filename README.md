@@ -1,3 +1,4 @@
+![Black and Blue Modern Web Developer Presentation](https://github.com/user-attachments/assets/a5386f04-a586-4f4a-9e74-ad78b9e13299)
 
 ## Hi, I am Gerald 
 I am a systems engineer with experience in web application development and the creation of results-oriented technological solutions. I specialize in web development, with a strong interest in the design and construction of modern, functional, and user-centric websites.
